@@ -4,6 +4,7 @@
 
 <div class=" product product-single row mb-4">
     <div class="col-md-6">
+
         <div class="product-gallery">
             <div class="product-single-carousel owl-carousel owl-theme owl-nav-inner row cols-1">
                 <figure class="product-image">
