@@ -1,6 +1,7 @@
 @extends('master')
 @section('content')
 
+
 <div class=" product product-single row mb-4">
     <div class="col-md-6">
         <div class="product-gallery">
